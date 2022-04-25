@@ -1,5 +1,4 @@
-# Hey!
-## A little about me...
+# Hey! A little about me...
 
 * I'm currently putting the finishing touches on my personal project, [FOODZY](https://github.com/LukeHayesss/final-project-foodzy). It's an awesome app where users can filter through recipes based on dietary preferences or health conditions.
 
