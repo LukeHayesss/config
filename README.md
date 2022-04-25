@@ -8,7 +8,7 @@
 
 * Who am I? I've been a Chef and Business Owner for most of my professional life, and I'm <i>excited</i> to transition to the world of coding.
 
-* I love disco, rnb, spicy food, and awesome code.
+* 🪩 I love disco, rnb, spicy food, and awesome code.
 
 * Reach me at lukehayesa@gmail.com, Instagram [(@lukechef_)](http://www.instagram.com/lukechef_), or Twitter [(@lukechef)](http://www.twitter.com/lukechef).
 
