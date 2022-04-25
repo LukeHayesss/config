@@ -11,5 +11,5 @@ A little about me...
 
 * I love disco, rnb, spicy food, and awesome code
 
-* Reach me at lukehayesa@gmail.com, Instagram (@lukechef_), or Twitter (@lukechef)
+* Reach me at lukehayesa@gmail.com, Instagram [(@lukechef_)](http://www.instagram.com/lukechef_), or Twitter (@lukechef)
 
