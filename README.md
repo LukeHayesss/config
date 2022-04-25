@@ -1,7 +1,7 @@
 # Hey!
-A little about me...
+## A little about me...
 
-* I'm currently putting the finishing touches on my latest project, [FOODZY](https://github.com/LukeHayesss/final-project-foodzy).
+* I'm currently putting the finishing touches on my personal project, [FOODZY](https://github.com/LukeHayesss/final-project-foodzy). It's an awesome app where users can filter through recipes based on dietary preferences or health conditions.
 
 * Recent graduate from the Concordia Full Stack Web Dev Bootcamp diploma program.
 
