@@ -12,3 +12,4 @@
 
 * 🗺️ Reach me at lukehayesa@gmail.com, Instagram [(@lukechef_)](http://www.instagram.com/lukechef_), or Twitter [(@lukechef)](http://www.twitter.com/lukechef).
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/luke-hayes-alexander/)](https://www.linkedin.com/in/luke-hayes-alexander/)
