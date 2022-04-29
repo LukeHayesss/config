@@ -17,9 +17,9 @@
 ## Languages and Tools
 <p dir="auto">
   
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB);
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white);
   
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
@@ -42,8 +42,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1858f430f946778ceaf076f42c59763015e055eebeb3a57da0ba20e594ca0d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030376163633f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1858f430f946778ceaf076f42c59763015e055eebeb3a57da0ba20e594ca0d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030376163633f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="VS Code badge" data-canonical-src="https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;"></a>
   
 </p>
 
