@@ -15,7 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/luke-hayes-alexander/)](https://www.linkedin.com/in/luke-hayes-alexander/)
 
 ## Languages and Tools
-<div align="center">  
+<p dir="auto">
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
@@ -43,5 +43,5 @@
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   
-</div>
+</p>
 
