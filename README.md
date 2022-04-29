@@ -13,3 +13,7 @@
 * 🗺️ Reach me at lukehayesa@gmail.com, Instagram [(@lukechef_)](http://www.instagram.com/lukechef_), or Twitter [(@lukechef)](http://www.twitter.com/lukechef).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/luke-hayes-alexander/)](https://www.linkedin.com/in/luke-hayes-alexander/)
+
+<h3>Languages and Tools<h3>
+<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
