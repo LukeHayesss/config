@@ -2,7 +2,7 @@
 
 * ❤️ I'm currently putting the finishing touches on my personal project, [FOODZY](https://github.com/LukeHayesss/final-project-foodzy). It's an awesome app where users can filter through recipes based on dietary preferences or health conditions.
 
-* 🌄 Recent graduate from the Concordia Full Stack Web Dev Bootcamp diploma program.
+* 🌄 Graduate from the Concordia Full Stack Web Dev Bootcamp diploma program.
 
 * 😄 Experienced full stack developer who has shipped production-ready code for various startups.
 
