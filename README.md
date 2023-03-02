@@ -4,9 +4,9 @@
 
 * 🌄 Recent graduate from the Concordia Full Stack Web Dev Bootcamp diploma program.
 
-* 😄 Looking for full or part-time employment in Frontend Web Development.
+* 😄 Experienced full stack developer who has shipped production-ready code for various startups.
 
-* 🌠 Who am I? I've been a Chef and Business Owner for most of my professional life, and I'm <i>excited</i> to transition to the world of coding.
+* 🌠 Who am I? I've been a Chef and Business Owner for most of my professional life, and I'm <i>excited</i> to have transitioned to the world of coding.
 
 * 💻 I love awesome code, disco, rnb, and spicy food.
 
