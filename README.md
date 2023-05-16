@@ -1,14 +1,10 @@
 # Hey! A little about me...
 
-* ❤️ I'm currently putting the finishing touches on my personal project, [FOODZY](https://github.com/LukeHayesss/final-project-foodzy). It's an awesome app where users can filter through recipes based on dietary preferences or health conditions.
+* ❤️ Experienced UX/UI Designer with a flair for creating elegant solutions in the most efficient way possible. Passionate about crafting beautiful user experiences, and solving problems. Knowledgeable about user flows, wireframes, and low-high fidelity prototypes, and skilled at combining user needs with technical and functional requirements. Concordia University graduate, Design Thinking certified, and Agile Scrum FCAS certified. 
 
-* 🌄 Graduate from the Concordia Full Stack Web Dev Bootcamp diploma program.
+* 😄 Experienced UX/UI Designer & full stack developer who has shipped production-ready code for various startups. In my previous life, I was a startup founder myself.
 
-* 😄 Experienced full stack developer who has shipped production-ready code for various startups.
-
-* 🌠 Who am I? I've been a Chef and Business Owner for most of my professional life, and I'm <i>excited</i> to have transitioned to the world of coding.
-
-* 💻 I love awesome code, disco, rnb, and spicy food.
+* 💻 I love awesome designs, disco, rnb, spicy food, & travelling around the world (most recently Vietnam and India).
 
 * 🗺️ Reach me at lukehayesa@gmail.com, Instagram [(@lukechef_)](http://www.instagram.com/lukechef_), or Twitter [(@lukechef)](http://www.twitter.com/lukechef).
 
