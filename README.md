@@ -1,8 +1,8 @@
 # Hey! A little about me...
 
-* ❤️ Experienced UX/UI Designer with a flair for creating elegant solutions in the most efficient way possible. Passionate about crafting beautiful user experiences, and solving problems. Knowledgeable about user flows, wireframes, and low-high fidelity prototypes, and skilled at combining user needs with technical and functional requirements. Concordia University graduate, Design Thinking certified, and Agile Scrum FCAS certified. 
+* ❤️ Experienced UX/UI Designer & full stack developer with a flair for creating elegant solutions in the most efficient way possible. Passionate about crafting beautiful user experiences, and solving problems. Knowledgeable about user flows, wireframes, and low-high fidelity prototypes, and skilled at combining user needs with technical and functional requirements. Concordia University graduate, Design Thinking certified, and Agile Scrum FCAS certified. 
 
-* 😄 Experienced UX/UI Designer & full stack developer who has shipped production-ready code for various startups. In my previous life, I was a startup founder myself.
+* 😄 I've shipped production-ready code for various startups. In my previous life, I was a startup founder myself.
 
 * 💻 I love awesome designs, disco, rnb, spicy food, & travelling around the world (most recently Vietnam and India).
 
